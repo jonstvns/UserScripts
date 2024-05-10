@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Unreal Docs Redirect
-// @namespace    http://tampermonkey.net/
-// @version      2024-05-10
+// @namespace    jon.stevens
+// @version      1.0
 // @description  Redirect unreal documentation pages from 4.x to 5.3
 // @author       Colin Haber
 // @match        https://docs.unrealengine.com/*
 // @match        https://dev.epicgames.com/documentation/*
 // @icon         none
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/jonstvns/UserScripts/main/unrealdocsredirect.js
+// @updateURL    https://raw.githubusercontent.com/jonstvns/UserScripts/main/unrealdocsredirect.js
 // ==/UserScript==
 
 (function() {
